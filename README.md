@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndriodna&hide=html,css,blade&layout=compact&theme=tokyonight )
-![Ndriodna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndriodna&count_private=true&show_icons=true&theme=tokyonight )
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/ndriodna/ndriodna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndriodna&hide=html,css,blade&theme=tokyonight&langs_count=3">
+</a>
+<a href="https://github.com/ndriodna/ndriodna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ndriodna&count_private=true&show_icons=true&theme=tokyonight">
+</a>
+
+
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndriodna&repo=siperpus&owner=true) -->
 
 
