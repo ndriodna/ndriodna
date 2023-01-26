@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### 🌱 I’m currently learning **laravel, vuejs**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndriodna&label=Profile%20views&color=0e75b6&style=flat" alt="ndriodna" /> </p>
@@ -30,13 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Github Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndriodna&" alt="ndriodna" /></p>
 
-##
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndriodna" alt="ndriodna" /></a> </p>
-
-- 🌱 I’m currently learning **laravel, vuejs**
 
 
 <h3 align="left">Languages and Tools:</h3>
